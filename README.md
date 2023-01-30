@@ -8,7 +8,7 @@
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
 <!-- <img src="https://i.imgur.com/oSh2RAU.mp4" width=200><br> OR <img src=".gif" width=200><br> -->
-![](https://i.imgur.com/oSh2RAU.gif)
+![](file:///private/var/folders/h2/b6r58w4s17d1qpc82y__0hp00000gn/T/eb6bbe2ce877f7f229ec19dd42d75c9a/Kapture%202023-01-30%20at%2011.58.41.gif)
 
 
 ### Required Features
