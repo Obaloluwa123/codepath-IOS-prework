@@ -1,0 +1,24 @@
+{
+  "colors" : [
+    {
+      "filename" : "image logo.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "image logo.jpeg",
+      "unassigned" : true
+    },
+    {
+      "filename" : "image logo.jpeg",
+      "unassigned" : true
+    },
+    {
+      "filename" : "image logo.jpeg",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
